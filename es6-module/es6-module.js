@@ -1,0 +1,1 @@
+import num, { add } from './es6-module/';
